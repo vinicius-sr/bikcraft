@@ -28,6 +28,7 @@
 }
 
 .intro-escrita p {
+  color: #b2b2b2;
   font-size: 24px;
   line-height: 1.5;
   margin-bottom: 20px;
@@ -40,6 +41,10 @@
   border-radius: 4px;
   font-weight: bold;
   color: #332200;
+}
+
+.intro-visual img {
+  border-radius: 4px;
 }
 
 /* apenas para visualizar a sombra*/
