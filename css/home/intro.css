@@ -7,10 +7,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
-  box-sizing: border-box;
-  margin: 0 auto;
-  padding: 0px 20px;
-  max-width: 1200px;
 }
 
 .intro-escrita {
@@ -29,14 +25,6 @@
 .intro-escrita p {
   color: #b2b2b2;
   margin-bottom: 20px;
-}
-
-.intro-escrita a {
-  display: inline-block;
-  background: linear-gradient(#ffbf00, #f2a50c);
-  padding: 16px 32px;
-  border-radius: 4px;
-  color: #332200;
 }
 
 .intro-imagem img {

@@ -17,8 +17,3 @@ img {
 img[src$=".jpg"] {
   border-radius: 4px;
 }
-
-.ponto {
-  color: #ffbb00;
-  font-family: "Poppins", sans-serif;
-}
