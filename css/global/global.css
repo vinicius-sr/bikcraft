@@ -10,8 +10,15 @@
 img {
   display: block;
   max-width: 100%;
+  object-fit: cover;
+}
+
+/* Arredonda os cantos de todas as imagens .jpg*/
+img[src$=".jpg"] {
+  border-radius: 4px;
 }
 
 .ponto {
   color: #ffbb00;
+  font-family: "Poppins", sans-serif;
 }
