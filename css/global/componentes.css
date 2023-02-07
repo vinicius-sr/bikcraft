@@ -1,0 +1,20 @@
+/*COMPONENTES*/
+.ponto {
+  color: #ffbb00;
+  font-family: "Poppins", sans-serif;
+}
+
+.botao {
+  display: inline-block;
+  background: linear-gradient(#ffbf00, #f2a50c);
+  padding: 16px 32px;
+  border-radius: 4px;
+  color: #332200;
+}
+
+.container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 1200px;
+}
