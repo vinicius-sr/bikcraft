@@ -1,0 +1,97 @@
+:root {
+  /*COR BASE*/
+  --cb-0: #ffffff;
+  --cb-1: #f7f7f7;
+  --cb-2: #ededed;
+  --cb-3: #dedede;
+  --cb-4: #cccccc;
+  --cb-5: #b2b2b2;
+  --cb-6: #9c9c9c;
+  --cb-7: #717171;
+  --cb-8: #595959;
+  --cb-9: #404040;
+  --cb-10: #2e2e2e;
+  --cb-11: #111111;
+  --cb-12: #000000;
+
+  /*COR DE ÊNFASE*/
+  --ce-0: #ffbb00;
+  --ce-1: #e4a30b;
+  --ce-2: #a66f00;
+  --ce-3: #664400;
+  --ce-4: #332200;
+}
+
+.cor-base-0 {
+  color: var(--cb-0);
+}
+
+.cor-base-1 {
+  color: var(--cb-1);
+}
+
+.cor-base-2 {
+  color: var(--cb-2);
+}
+
+.cor-base-3 {
+  color: var(--cb-3);
+}
+
+.cor-base-4 {
+  color: var(--cb-4);
+}
+
+.cor-base-5 {
+  color: var(--cb-5);
+}
+
+.cor-base-6 {
+  color: var(--cb-6);
+}
+
+.cor-base-7 {
+  color: var(--cb-7);
+}
+
+.cor-base-8 {
+  color: var(--cb-8);
+}
+
+.cor-base-9 {
+  color: var(--cb-9);
+}
+
+.cor-base-10 {
+  color: var(--cb-10);
+}
+
+.cor-base-11 {
+  color: var(--cb-11);
+}
+
+.cor-base-12 {
+  color: var(--cb-12);
+}
+
+/*-------------------------------------------------------------------------------------*/
+
+.cor-enfase-0 {
+  color: var(--ce-0);
+}
+
+.cor-enfase-1 {
+  color: var(--ce-1);
+}
+
+.cor-enfase-2 {
+  color: var(--ce-2);
+}
+
+.cor-enfase-3 {
+  color: var(--ce-3);
+}
+
+.cor-enfase-4 {
+  color: var(--ce-4);
+}

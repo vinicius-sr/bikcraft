@@ -1,6 +1,6 @@
 .intro {
-  background-color: #000000;
-  box-shadow: inset 0px -120px #ffffff;
+  background-color: var(--cb-12);
+  box-shadow: inset 0px -120px var(--cb-0);
 }
 
 .intro-container {
@@ -23,7 +23,6 @@
 }
 
 .intro-escrita p {
-  color: #b2b2b2;
   margin-bottom: 20px;
 }
 

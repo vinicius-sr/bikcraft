@@ -1,6 +1,6 @@
 /*COMPONENTES*/
 .ponto {
-  color: #ffbb00;
+  color: var(--ce-0);
   font-family: "Poppins", sans-serif;
 }
 
@@ -9,7 +9,7 @@
   background: linear-gradient(#ffbf00, #f2a50c);
   padding: 16px 32px;
   border-radius: 4px;
-  color: #332200;
+  color: var(--ce-4);
 }
 
 .container {

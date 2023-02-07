@@ -1,6 +1,6 @@
 .tecnologia {
-  background-color: #111111;
-  box-shadow: inset 0px 80px #ffffff, inset 0px -80px #ffffff;
+  background-color: var(--cb-12);
+  box-shadow: inset 0px 80px var(--cb-0), inset 0px -80px var(--cb-0);
 }
 
 .tecnologia-container {
@@ -15,22 +15,18 @@
 
 .tecnologia-escrita > span {
   display: block;
-  color: #b2b2b2;
   margin-bottom: 16px;
 }
 
 .tecnologia-escrita h2 {
-  color: #ffffff;
   margin-bottom: 32px;
 }
 
 .tecnologia-escrita > p {
-  color: #b2b2b2;
   margin-bottom: 20px;
 }
 
 .tecnologia-escrita a {
-  color: #ffbb00;
   display: inline-block;
   margin-bottom: 80px;
 }
@@ -58,13 +54,8 @@
 }
 
 .tecnologia-lista h3 {
-  color: #ffffff;
   margin-bottom: 8px;
   width: max-content; /*Não quebra o titulo, mantem o tamanho máximo do conteudo*/
-}
-
-.tecnologia-lista p {
-  color: #b2b2b2;
 }
 
 .tecnologia-imagem img {
