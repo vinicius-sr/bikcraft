@@ -1,0 +1,67 @@
+.seguros {
+  background-color: var(--cb-11);
+}
+
+.seguros-container {
+  padding: 80px 20px;
+}
+
+.seguros-container h2 {
+  margin-bottom: 60px;
+}
+
+.seguros-opcoes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+}
+
+.opcao {
+  padding: 32px 32px 32px 64px;
+  background-color: var(--cb-12);
+  border-radius: 4px;
+}
+
+.opcao-titulo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 32px;
+}
+
+.opcao-titulo h3 {
+  text-transform: uppercase;
+}
+
+.opcao-preco {
+  justify-self: end;
+  display: grid;
+  justify-items: end;
+}
+
+.opcao-vantagens {
+  list-style-image: url("//img/icones/lista.svg");
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
+
+.botao-1,
+.botao-2 {
+  display: inline-block;
+  padding: 16px 32px;
+  border-radius: 4px;
+  font: 600 18px/1.35 "Poppins", sans-serif;
+  text-transform: uppercase;
+}
+
+.botao-1 {
+  color: var(--cb-4);
+  background-color: var(--cb-10);
+}
+
+.botao-2 {
+  color: var(--ce-4);
+  background: linear-gradient(#ffbf00, #f2a50c);
+}
