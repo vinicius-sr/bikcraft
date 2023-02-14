@@ -12,6 +12,12 @@
   padding: 16px 32px;
   border-radius: 4px;
   color: var(--ce-4);
+  max-width: max-content;
+}
+
+.botao.secundario {
+  background: var(--cb-10);
+  color: var(--cb-4);
 }
 
 .container {
