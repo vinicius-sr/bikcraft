@@ -3,9 +3,10 @@
 @import url("./global/tipografia.css");
 @import url("./global/cores.css");
 @import url("./global/header.css");
-@import url("./home/intro.css");
-@import url("./home/lista-bikes.css");
-@import url("./home/tecnologia.css");
-@import url("./home/parceiros.css");
-@import url("./home/depoimento.css");
-@import url("./home/seguros.css");
+@import url("./home/1-intro.css");
+@import url("./home/2-lista-bikes.css");
+@import url("./home/3-tecnologia.css");
+@import url("./home/4-parceiros.css");
+@import url("./home/5-depoimento.css");
+@import url("./home/6-seguros.css");
+@import url("./global/footer.css");
