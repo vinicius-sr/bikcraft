@@ -20,6 +20,25 @@
   color: var(--cb-4);
 }
 
+.botao.seta {
+  display: flex;
+  align-items: center;
+}
+
+.botao.seta::after {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 10px;
+  margin-left: 8px;
+  background: url("../../img/icones/seta.svg");
+}
+
+.botao.seta:hover::after {
+  transform: translateX(4px);
+  transition: 0.3s;
+}
+
 .container {
   box-sizing: border-box;
   margin: 0 auto;
