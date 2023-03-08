@@ -1,16 +1,4 @@
-.title {
-  background-color: var(--cb-11);
-}
-
-.title-container {
-  padding: 60px 20px;
-}
-
-.title-container p {
-  margin-bottom: 4px;
-}
-
-.bicicletas {
+.bicicletas-content {
   padding: 40px 0px;
 }
 

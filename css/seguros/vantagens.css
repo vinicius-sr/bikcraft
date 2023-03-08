@@ -1,0 +1,21 @@
+.vantagens {
+  background-color: var(--cb-12);
+}
+
+.vantagens-container {
+  padding: 60px 20px;
+}
+
+.vantagens-container h2 {
+  margin-bottom: 80px;
+}
+
+.lista-vantagens {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max-content));
+  gap: 40px;
+}
+
+.lista-vantagens img {
+  width: 24px;
+}
